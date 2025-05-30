@@ -159,4 +159,23 @@ body {
 }
 .about__progress-text {
   font-size: 40px;
+  font-weight: 300;
+  line-height: 1.2;
+  margin-bottom: 40px;
+}
+.about__progress-box{
+  display: flex;
+  justify-content: space-between;
+  gap: 0 140px;
+}
+.about__progress-boxtext{
+  font-size: 18px;
+  margin-bottom: 45px;
+  padding-right: 50px;
+}
+.about__progress-table{
+
+}
+.about__progress-item{
+  
 }
