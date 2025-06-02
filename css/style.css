@@ -249,9 +249,9 @@ body {
 .products__item:nth-child(odd) .products__item-title {
   color: #fff;
 }
-.product__link {
-  background-color: #000000;
-  display: block;
+.button{
+   background-color: #000000;
+  display: inline-block;
   font-weight: 500;
   color: #fff;
   padding: 19px 97px 19px 38px;
@@ -259,6 +259,9 @@ body {
   position: relative;
   text-transform: uppercase;
   width: 242px;
+}
+.product__link {
+  display: block;
   margin: 0 auto;
 }
 .product__link img {
