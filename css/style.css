@@ -266,3 +266,27 @@ body {
   right: 4px;
   top: 3px;
 }
+.slogan {
+  padding-top: 115px;
+}
+.slogan__text {
+  text-align: center;
+  font-size: 40px;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
+  color: #000;
+  text-transform: uppercase;
+  margin-bottom: 26px;
+}
+.slogan__title {
+  text-align: center;
+  font-size: 300px;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 600;
+  color: #f2a531;
+  text-transform: uppercase;
+  line-height: 1;
+}
+.slogan__logo {
+  margin-top: -145px;
+}
