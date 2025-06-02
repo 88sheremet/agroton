@@ -200,3 +200,14 @@ body {
   font-size: 18px;
   opacity: 0.71;
 }
+.products__wrapper {
+  padding: 50px 0;
+  background-color: #f4f4e7;
+  border-radius: 20px;
+}
+.products__title {
+  text-transform: uppercase;
+  font-weight: 500;
+  font-size: 40px;
+  color: #000;
+}
